@@ -1,2 +1,2 @@
-# Projects
-Personal Projects
+# Personal Projects
+Different Challenges/Projects
